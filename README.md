@@ -18,11 +18,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Creating roles
-- Creating departments
-- Creating teams
-- Creating agents
-- Creating an SLA
+- Creating roles on osTicket
+- Creating departments on osTicket
+- Creating teams on osTicket
+- Creating agents on osTicket
+- Creating an SLA on osTicket
 
 <h2>Configuration Steps</h2>
 
